@@ -12,7 +12,6 @@
 
 <div style="display: inline_block">
    <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-   <img alt="shellscript" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </div>
 
 <br>
