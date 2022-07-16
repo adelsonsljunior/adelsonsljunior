@@ -8,7 +8,7 @@
 
 <br>
 
-## Estudando: 
+### Estudando: 
 
 <div style="display: inline_block">
    <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -23,5 +23,7 @@
 <img src="http://hqqisso.com.br/wp-content/uploads/batman-gif-1.gif">
 
 <br>
+
+---
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adelson.junior.15/)
