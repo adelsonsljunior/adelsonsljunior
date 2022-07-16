@@ -1,14 +1,14 @@
-## Sei um pouco (ou quase nada) de: 
+# 
+
+## Sei um pouco: 
 
 <div style="display: inline_block">
-   <img alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
    <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
- 
 </div>
 
 <br>
 
-### Estudando: 
+## Estudando: 
 
 <div style="display: inline_block">
    <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
