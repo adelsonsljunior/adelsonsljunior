@@ -33,6 +33,14 @@
   <img align="center" height= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />       
 </div>
 
+## Estudando 📚
+
+<div style="display: inline_block">
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+          
+</div>
+  
 ## Contato 📞
 <div>
   <a href="https://www.instagram.com/adelson.junior.15/" target="_blank"> <img src="https://img.shields.io/badge/Adelson%20Júnior-ba24c3?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/adelson.junior.15/"/>
