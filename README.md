@@ -1,8 +1,8 @@
 # Adelson Santos Lima Júnior
 
-+ **Entusiasta do mundo Linux**
-+ **Cursando Informática no Instituto Federal de Alagoas**
-+ **Interresado nas áreas de Backend e DevOps**
++ Entusiasta do mundo Linux
++ Cursando Informática no Instituto Federal de Alagoas
++ Interresado nas áreas de Backend e DevOps
 
 ## Estastísticas 📊
 
