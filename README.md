@@ -2,7 +2,7 @@
 
 + Entusiasta do mundo Linux
 + Cursando Informática no Instituto Federal de Alagoas
-+ Interresado nas áreas de Backend e DevOps
++ Interessado nas áreas de Backend e DevOps
 
 ## Estastísticas 📊
 
