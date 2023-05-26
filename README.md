@@ -30,7 +30,8 @@
 ## Gerenciamento de Contêineres 📦
 
 <div style="display: inline_block"><br>
-  <img align="center" height= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />       
+  <img align="center" height= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" height= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" />  
 </div>
 
 ## Estudando 📚
@@ -39,8 +40,6 @@
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-
-          
 </div>
   
 ## Contato 📞
