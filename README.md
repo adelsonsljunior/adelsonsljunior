@@ -33,6 +33,12 @@
   <img align="center" height= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" height= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" />  
 </div>
+  
+## DevOps ⚙️
+
+<div style="display: inline_block"><br>
+  <img align="center" height= "50" src="https://github.com/adelsonsljunior/adelsonsljunior/assets/94010073/442fcc28-4ab6-4ae4-9624-399a461f7a2a" />  
+</div>
 
 ## Estudando 📚
 
@@ -44,6 +50,10 @@
   
 ## Contato 📞
 <div>
-  <a href="https://www.instagram.com/adelson.junior.15/" target="_blank"> <img src="https://img.shields.io/badge/Adelson%20Júnior-ba24c3?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/adelson.junior.15/"/>
+  <a href="mailto:junioradelsonst@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/gmail-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.junioradelsonst@gmail.com"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adelson-junior-a764a8262/">
+  <img src="https://img.shields.io/badge/Adelson%20Júnior-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/adelson-junior-a764a8262/"/>
   </a>
 </div
