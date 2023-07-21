@@ -4,7 +4,7 @@
 + Cursando Informática no Instituto Federal de Alagoas
 + Interessado nas áreas de Backend e DevOps
 
-## Estastísticas 📊
+## Statistics 📊
 
 <div>
   <a href="https://github.com/adelsonsljunior">
@@ -13,7 +13,7 @@
   </a>  
 </div>
 
-## Habilidades ⛓️
+## Skills ⛓️
 
 <div style="display: flex; flex-direction: row; gap: 10px; align-items: center">
   <div style="display: flex; align-items: center;">
@@ -35,12 +35,14 @@
   </div>
 </div>
 
-## Estudando 📚
+## Intend to learn 📚
 
 <div style="display: flex; flex-direction: row; gap: 10px; vertical-align: middle; justify-content: center">
-  <img alt="adelson-go" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+  <img alt="adelson-spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img alt="adelson-adelson" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" />
   <img alt="adelson-ruby" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
   <img alt="adelson-rails" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
+  <img alt="adelson-go" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
   <img alt="adelson-ansible" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" />  
   <img alt="adelson-kubernetes" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
   <img alt="adelson-jenkis" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
@@ -50,7 +52,7 @@
   <img alt="adelson-aws"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />    
 </div>
 
-## Contato 📞
+## Contact 📞
 
 <div>
   <a href="mailto:junioradelsonst@gmail.com" alt="Gmail">
