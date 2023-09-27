@@ -38,6 +38,9 @@
 ## Intend to learn 📚
 
 <div style="display: flex; flex-direction: row; gap: 10px; vertical-align: middle; justify-content: center">
+  
+  <img alt="adelson-ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="adelson-nestjs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
   <img alt="adelson-spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img alt="adelson-adelson" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" />
   <img alt="adelson-ruby" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
@@ -55,10 +58,10 @@
 ## Contact 📞
 
 <div>
-  <a href="mailto:junioradelsonst@gmail.com" alt="Gmail">
+  <a href="mailto:junioradelsonst@gmail.com" alt="adelson-gmail" target="_blank">
     <img src="https://img.shields.io/badge/gmail-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.junioradelsonst@gmail.com"/>
   </a>
-  <a href="https://www.linkedin.com/in/adelson-junior-a764a8262/">
+  <a href="https://www.linkedin.com/in/adelson-junior-a764a8262/" alt="adelson-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/Adelson%20Júnior-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/adelson-junior-a764a8262/"/>
   </a>
 </div>
