@@ -9,7 +9,7 @@
 <div>
   <a href="https://github.com/adelsonsljunior">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adelsonsljunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelsonsljunior&layout=compact&langs_count=7&hide=html,cpp,css&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelsonsljunior&layout=compact&langs_count=7&hide=html,cpp,css,dart,swift,objective-c&theme=dark"/>
   </a>  
 </div>
 
