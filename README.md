@@ -1,7 +1,7 @@
 # Adelson Santos Lima Júnior
 
 + Entusiasta do mundo Linux
-+ Técnico em Informática pelo Instituto Federal de Alagoas
++ Técnico em Informática pelo Instituto Federal de Alagoas - Campus Arapiraca
 + Interessado nas áreas de Backend e DevOps
 
 ## Statistics 📊
