@@ -24,13 +24,4 @@
   <img src="https://skillicons.dev/icons?i=rust,go,ruby,rails,elixir,crystal,redis,githubactions,kubernetes,ansible,jenkins,grafana,prometheus,terraform,aws,azure,gcp" />
 </div>
 
-## Contact 📞
 
-<div>
-  <a href="mailto:junioradelsonst@gmail.com" alt="adelson-gmail" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.junioradelsonst@gmail.com"/>
-  </a>
-  <a href="https://www.linkedin.com/in/adelson-junior-a764a8262/" alt="adelson-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/Adelson%20Júnior-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/adelson-junior-a764a8262/"/>
-  </a>
-</div>
