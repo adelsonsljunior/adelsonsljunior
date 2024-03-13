@@ -23,7 +23,7 @@
 ## Intend to learn 📚
 
 <div style="display: flex; align-items: center; justify-content: center">
-  <img src="https://skillicons.dev/icons?i=rust,go,ruby,rails,elixir,crystal,redis,githubactions,kubernetes,ansible,jenkins,grafana,prometheus,terraform,aws,azure,gcp" />
+  <img src="https://skillicons.dev/icons?i=spring,rust,go,ruby,rails,elixir,crystal,redis,githubactions,kubernetes,ansible,jenkins,grafana,prometheus,terraform,aws,azure,gcp" />
 </div>
 
 
