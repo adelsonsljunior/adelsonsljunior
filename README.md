@@ -20,10 +20,4 @@
   <img src="https://skillicons.dev/icons?i=linux,bash,python,java,mysql,postgres,mongodb,git,github,docker," />
 </div>
 
-## Intend to learn 📚
-
-<div style="display: flex; align-items: center; justify-content: center">
-  <img src="https://skillicons.dev/icons?i=spring,kotlin,go,ruby,rails,redis,githubactions,kubernetes,ansible,jenkins,grafana,prometheus,terraform,aws" />
-</div>
-
 
