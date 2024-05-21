@@ -1,6 +1,5 @@
 # Adelson Santos Lima Júnior
 
-
 + Entusiasta do mundo Linux
 + Técnico em Informática pelo Instituto Federal de Alagoas - Campus Arapiraca
 + Cursando Bacharelado em Sistemas de Informação no Instituto Federal de Alagoas - Campus Arapiraca
@@ -19,11 +18,3 @@
 <div style="display: flex; align-items: center; justify-content: center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,java,mysql,postgres,mongodb,git,github,docker," />
 </div>
-
-## Intend to learn 📚
-
-<div style="display: flex; align-items: center; justify-content: center">
-  <img src="https://skillicons.dev/icons?i=spring,kotlin,go,ruby,rails,redis,githubactions,kubernetes,ansible,jenkins,grafana,prometheus,terraform,aws,azure,gcp" />
-</div>
-
-
