@@ -1,23 +1,15 @@
-# Adelson Santos Lima Júnior
-
+# Adelson Júnior <img width="75" height="75" src=https://raw.githubusercontent.com/adelsonsljunior/adelsonsljunior/main/img/totoro.gif>
 
 + Entusiasta do mundo Linux
 + Técnico em Informática pelo Instituto Federal de Alagoas - Campus Arapiraca
 + Cursando Bacharelado em Sistemas de Informação no Instituto Federal de Alagoas - Campus Arapiraca
-+ Interessado nas áreas de Backend e DevOps
++ Interessado nas áreas de DevOps e Backend
 
 ## Statistics 📊
 
-<div style="display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center">
-  <a href="https://github.com/adelsonsljunior">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelsonsljunior&layout=compact&langs_count=7&hide=html,cpp,css,dart,swift,objective-c&theme=dark"/>
-  </a>  
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adelsonsljunior&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adelsonsljunior&theme=nord_dark&exclude=html)
 
 ## Skills ⛓️
 
-<div style="display: flex; align-items: center; justify-content: center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,java,mysql,postgres,mongodb,git,github,docker," />
-</div>
-
-
+<img src="https://skillicons.dev/icons?i=linux,bash,python,java,mysql,postgres,mongodb,git,github,docker," />
