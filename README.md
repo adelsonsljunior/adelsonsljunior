@@ -3,7 +3,7 @@
 + Entusiasta do mundo Linux
 + Técnico em Informática pelo Instituto Federal de Alagoas - Campus Arapiraca
 + Cursando Bacharelado em Sistemas de Informação no Instituto Federal de Alagoas - Campus Arapiraca
-+ Interessado nas áreas de DevOps e Backend
++ Interessado nas áreas de DevOps e SRE
 
 ## Statistics 📊
 
