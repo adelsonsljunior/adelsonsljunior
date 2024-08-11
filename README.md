@@ -1,9 +1,9 @@
-# Adelson Júnior <img width="70" height="70" src=https://raw.githubusercontent.com/adelsonsljunior/adelsonsljunior/main/img/totoro.gif>
+# Adelson Júnior <img width="60" height="60" src=https://raw.githubusercontent.com/adelsonsljunior/adelsonsljunior/main/img/totoro.gif>
 
 + Entusiasta do mundo Linux
-+ Técnico em Informática pelo Instituto Federal de Alagoas - Campus Arapiraca
-+ Cursando Bacharelado em Sistemas de Informação no Instituto Federal de Alagoas - Campus Arapiraca
 + Interessado nas áreas de DevOps e SRE
++ **Técnico em Informática** pelo Instituto Federal de Alagoas - Campus Arapiraca
++ **Cursando Sistemas de Informação** no Instituto Federal de Alagoas - Campus Arapiraca
 
 ## Statistics 📊
 
