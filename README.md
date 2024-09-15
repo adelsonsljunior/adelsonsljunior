@@ -3,8 +3,8 @@
 ~~~diff
 + Entusiasta do mundo Linux
 + Interessado nas áreas de DevOps e SRE
-+ Técnico em Informática pelo Instituto Federal de Alagoas - Campus Arapiraca
-+ Cursando Sistemas de Informação no Instituto Federal de Alagoas - Campus Arapiraca
++ Técnico em Informática pelo IFAL - Campus Arapiraca
++ Cursando Sistemas de Informação no IFAL - Campus Arapiraca
 ~~~
 
 ## Statistics 📊
