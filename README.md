@@ -1,4 +1,4 @@
-# Adelson Júnior <img width="60" height="60" src=https://raw.githubusercontent.com/adelsonsljunior/adelsonsljunior/main/img/totoro.gif>
+# Adelson Júnior <img width="60" height="60" src=https://raw.githubusercontent.com/adelsonsljunior/adelsonsljunior/main/imgs/totoro.gif>
 
 ~~~diff
 + Entusiasta do mundo Linux
