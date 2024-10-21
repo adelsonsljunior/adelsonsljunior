@@ -14,4 +14,4 @@
 
 ## Skills ⛓️
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,java,mysql,postgres,mongodb,git,github,docker," />
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,python,java,mysql,postgres,mongodb," />
