@@ -1,11 +1,18 @@
 # Adelson Júnior <img width="60" height="60" src=https://raw.githubusercontent.com/adelsonsljunior/adelsonsljunior/main/imgs/totoro.gif>
 
-~~~diff
-+ Entusiasta do mundo Linux
-+ Interessado nas áreas de DevOps e SRE
-+ Técnico em Informática pelo IFAL - Campus Arapiraca
-+ Cursando Sistemas de Informação no IFAL - Campus Arapiraca
 ~~~
+$ apt moo moo
+
+                 (__)  
+         _______~(..)~ 
+           ,----\(oo) 
+          /|____|,'    
+         * /"\ /\   
+           ~ ~ ~ ~     
+..."Have you mooed today?"...
+~~~
+
+
 
 ## Statistics 📊
 
