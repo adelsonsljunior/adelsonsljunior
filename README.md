@@ -17,8 +17,8 @@ $ apt moo moo
 ## Statistics 📊
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adelsonsljunior&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adelsonsljunior&theme=nord_dark&exclude=html)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adelsonsljunior&theme=nord_dark&exclude=html,js,bat)
 
 ## Skills ⛓️
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,python,java,mysql,postgres,mongodb," />
+<img src="https://skillicons.dev/icons?i=linux,bash,python,java,git,github,docker,mysql,postgres,mongodb," />
