@@ -21,4 +21,4 @@ $ apt moo moo
 
 ## Skills ⛓️
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions,docker,kubernetes,jenkins,python,java,mysql,postgres,mongodb," />
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,kubernetes,jenkins,githubactions,python,java,mysql,postgres,mongodb," />
